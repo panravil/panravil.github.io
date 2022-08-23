@@ -1,0 +1,7 @@
+.card-container {
+    margin-top: 0;
+}
+.black-image-project-hover img {
+    filter: none;
+    -webkit-filter: none;
+}
